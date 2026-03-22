@@ -31,8 +31,9 @@ Analyzed Uber ride data to identify patterns in bookings, demand, and ride trend
 
 ---
 
-## 📈 Key Insights
--Identifies ride patterns, demand, and popular pickup locations
--Shows overall rides, earnings, and average fare trends
--Highlights driver performance and top-rated drivers
--Analyzes customer behavior through payment methods and ride distance
+
+## 📈 Key Insights  
+- Identifies ride patterns, demand, and popular pickup locations  
+- Shows overall rides, earnings, and average fare trends  
+- Highlights driver performance and top-rated drivers  
+- Analyzes customer behavior through payment methods and ride distance 
